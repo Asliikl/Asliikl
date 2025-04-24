@@ -1,6 +1,6 @@
-# Merhaba! Ben Aslıhan, Fullstack Yazılım Geliştiriciyim
+# Merhaba! Ben Aslıhan,
 
-Ben bir **Fullstack Yazılım Geliştirici** olarak, **web teknolojileri** ile ilgileniyor ve her geçen gün yeni şeyler öğrenmeye büyük bir hevesle devam ediyorum. Yazılım geliştirmeyi bir tutku olarak görüyorum ve bu tutkumu projelerimde ve sürekli gelişimimde görüyorum.
+Ben **web teknolojileri** ile ilgileniyor ve her geçen gün yeni şeyler öğrenmeye büyük bir hevesle devam ediyorum.
 
 ## 🚀 Yeteneklerim
 - **Front-End**: HTML, CSS, JavaScript, JQuery, Vue.js, Vite.js, Bootstrap, Tailwind
