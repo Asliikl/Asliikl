@@ -1,6 +1,6 @@
 # Merhaba! Ben Aslıhan,
 
-Ben **web teknolojileri** ile ilgileniyor ve her geçen gün yeni şeyler öğrenmeye büyük bir hevesle devam ediyorum.
+**Web teknolojileri** ile ilgileniyor ve her geçen gün yeni şeyler öğrenmeye büyük bir hevesle devam ediyorum.
 
 ## 🚀 Yeteneklerim
 - **Front-End**: HTML, CSS, JavaScript, JQuery, Vue.js, Vite.js, Bootstrap, Tailwind
